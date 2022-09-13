@@ -1,12 +1,13 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/rizalv1
+/Adv-Auto-Filter-Bot-V2/stargazers">
     <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2/fork">
+  <a href="https://https://github.com/rizalv1/Auto-Filter-Bot-V2/fork">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -83,7 +84,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2
+git clone https://https://github.com/rizalv1/Auto-Filter-Bot-V2
 cd Adv-Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
